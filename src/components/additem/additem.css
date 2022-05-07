@@ -1,0 +1,36 @@
+.additem-container{
+
+
+    display: flex;
+
+}
+
+
+
+.input-field{
+
+    padding: 8px;
+    border: none;
+    border-bottom: 2px solid rgb(170, 40, 120);
+    border-radius: 2px;
+    margin-left: 3px;
+
+}
+
+.input-field{
+
+    width: 80%;
+
+}
+
+.button-todo{
+
+    width: 120px;
+    background:rgb(247, 82, 82);
+    border: none;
+    color: #fff;
+    border-radius: 3px;
+    margin-left: 4px;
+    cursor: pointer;
+}
+
